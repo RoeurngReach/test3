@@ -1,0 +1,6 @@
+{
+  "name": "សៀវភៅកត់ចំណូលចំណាយឌីជីថល",
+  "description": "ប្រព័ន្ធកត់ត្រាចំណូលចំណាយផ្ទាល់ខ្លួន (Personal Income and Expense Tracker)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

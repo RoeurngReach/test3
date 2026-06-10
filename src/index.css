@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanuman:wght@400;700&family=Siemreap&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Siemreap", "Hanuman", "Khmer OS Siemreap", "Inter", ui-sans-serif, system-ui, sans-serif;
+}
